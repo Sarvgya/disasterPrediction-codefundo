@@ -1,4 +1,4 @@
-# disasterPrediction-codefundo
+Disaster Prediction
 
 AIM:
 To build a technology that will help to prevent and predict the impact of Natural disasters like Earthquakes and Floods (These two areas will be our primary concern).
