@@ -10,7 +10,7 @@ This will work in the following way:-
   2)	Using this information we can get useful DATA from the various databases available.
   3)	The Data will include the following things:-
 		   - It's past records on any disasters (Earthquakes and Floods).
-		   - Satelliter Imaging of that particular location.
+		   - Satellite Imaging of that particular location.
   4)	Using various ML algorthims we will try to predict the disaster and notify the users.
   5)	For more accuracy we will provide a warning to the users based on twitter sentiment analysis of any live activity (disaster) going 	   on near them.
   6)	#We may also try to make this usable without the internet connection.
