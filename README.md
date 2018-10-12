@@ -20,9 +20,8 @@ This will work in the following way:-
  - To build a model to predict monsoon flood (1 day ahead) using Wavelet Transform, Genetic Algorithm, Artificial neural net 
    from Hydrological time series data. 
  - Twitter as a data source has gained lot of prominence in recent years. It is ranked as one of the top 10 popular 
-   websites, having 400 million registered users and over 500 million tweets generated every day. Additionally, information about disasters      
-   can be extracted from news channels & blogs through APIs, RSS feed or web scraping.
-  - Satellite imagery of clouds to predicts heavy rainfall.
+   websites, having 400 million registered users and over 500 million tweets generated every day. Additionally, information about disasters can be extracted from news channels & blogs through APIs, RSS feed or web scraping.
+ - Satellite imagery of clouds to predicts heavy rainfall.
  
 
 	OVERVIEW
