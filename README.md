@@ -7,7 +7,7 @@ IDEA:
 We will try to make an App using Android Studio which will work in colloboration with Machine Learning to make people aware of the disasters in the near future.
 This will work in the following way:-
   1)	The App will detect the user's current Location.
-  2)	Using this information we can get useful DATA from the various databases available.
+  2)	Using this information we can get useful DATA from the various databases (UCL,ODG) available.
   3)	The Data will include the following things:-
 		   - It's past records on any disasters (Earthquakes and Floods).
 		   - Satellite Imaging of that particular location.
