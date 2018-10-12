@@ -22,14 +22,8 @@ This will work in the following way:-
  - Twitter as a data source has gained lot of prominence in recent years. It is ranked as one of the top 10 popular 
    websites, having 400 million registered users and over 500 million tweets generated every day. Additionally, information about disasters      
    can be extracted from news channels & blogs through APIs, RSS feed or web scraping.
-   Sentiment Analysis, Stock Market, Public Health, General public mood and finding political alignments, are some of the areas where
-   twitter data have been used.
-   
-   Some of the advantages of tweets are 	
- - Though it is unstructured,  it has some structure by the limitation of 140 characters.
- - It can use hashtags, which gives semantic annotations of the tweets. 
- - The tweets have geocodes, which can help us spatially map the sources of the tweets. 
-  
+  - Satellite imagery of clouds to predicts heavy rainfall.
+ 
 
 	OVERVIEW
 	This will help the people to prevent the disaster or in the worst case make them aware of a disaster.
