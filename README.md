@@ -24,5 +24,5 @@ This will work in the following way:-
  - Satellite imagery of clouds to predicts heavy rainfall.
  
 
-	OVERVIEW
-	This will help the people to prevent the disaster or in the worst case make them aware of a disaster.
+   OVERVIEW:
+   This will help the people to prevent the disaster or in the worst case make them aware of a disaster.
